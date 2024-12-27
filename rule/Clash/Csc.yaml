@@ -8,3 +8,5 @@
 payload:
   - DOMAIN,hellocsc.cc
   - DOMAIN,hellocsc.cn
+  - DOMAIN-SUFFIX,hellocsc.cc
+  - DOMAIN-SUFFIX,hellocsc.cn
